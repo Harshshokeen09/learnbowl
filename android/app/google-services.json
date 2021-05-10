@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "328082271684",
+    "project_id": "learn-bowl-d417c",
+    "storage_bucket": "learn-bowl-d417c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328082271684:android:1e0e8bc523428032110891",
+        "android_client_info": {
+          "package_name": "com.example.learnbowl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328082271684-7djjtmp2ukhdcida70ak1aejsvt2th2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnbowl",
+            "certificate_hash": "b2bcf1e82d7098a689086e63698522f8730c7141"
+          }
+        },
+        {
+          "client_id": "328082271684-u5u3p41c0kbebedljbvn8v6vbi8jjudk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3L8j1JArVKjJJfYlj8vKYb_5WQaTkRP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328082271684-u5u3p41c0kbebedljbvn8v6vbi8jjudk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328082271684-m7hi0db8211gtknb70ejn3plngk0fqfr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shokeen.Learnbowl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328082271684:android:7ec143f9f722fa79110891",
+        "android_client_info": {
+          "package_name": "com.shokeen.Learnbowl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328082271684-u5u3p41c0kbebedljbvn8v6vbi8jjudk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3L8j1JArVKjJJfYlj8vKYb_5WQaTkRP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328082271684-u5u3p41c0kbebedljbvn8v6vbi8jjudk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328082271684-m7hi0db8211gtknb70ejn3plngk0fqfr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shokeen.Learnbowl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
